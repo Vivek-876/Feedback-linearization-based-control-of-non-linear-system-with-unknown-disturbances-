@@ -27,5 +27,5 @@ to form a robust controller. Despite being subjected to an unknowable external f
 controller is able to tame the chaotic behaviour of a nonlinear system. To prove that the
 suggested strategy works two numerical simulations (Duffing’s Oscillator and Genesio System) are run.
 
-# Software used:
-MATLAB
+### Software used :
+in this project we use MATLAB.
