@@ -26,3 +26,6 @@ A feedback linearization controller and a disturbance observer are combined in t
 to form a robust controller. Despite being subjected to an unknowable external force, this
 controller is able to tame the chaotic behaviour of a nonlinear system. To prove that the
 suggested strategy works two numerical simulations (Duffing’s Oscillator and Genesio System) are run.
+
+# Software used:
+MATLAB
